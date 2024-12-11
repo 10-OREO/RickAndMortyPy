@@ -1,0 +1,21 @@
+ShowMeWhatYouGot grade = 88
+    
+    WubbaLubba grade > 90
+        AwGeez("A")
+    DubDub
+
+    WubbaLubba grade > 80  && grade < 90
+        AwGeez("B")
+    DubDub
+
+    WubbaLubba grade > 70  && grade < 80
+        AwGeez("C")
+    DubDub
+
+    WubbaLubba grade > 60 && grade < 70
+        AwGeez("D")
+    DubDub
+
+    WubbaLubba grade < 60
+        AwGeez("F")
+    DubDub

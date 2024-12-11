@@ -1,0 +1,23 @@
+ShowMeWhatYouGot i = 1
+
+    ShowMeWhatYouGot fizzbuzz = i % 15
+    ShowMeWhatYouGot fizz = i % 3
+    ShowMeWhatYouGot buzz = i % 5
+
+    WubbaLubba fizz != 0 && buzz != 0
+        AwGeez(i)
+    DubDub
+    
+    WubbaLubba fizzbuzz  == 0
+        AwGeez("FizzBuzz")
+    DubDub
+    
+    WubbaLubba fizz == 0
+        AwGeez("Fizz")
+    DubDub
+    
+    WubbaLubba buzz == 0
+        AwGeez("Buzz")
+    DubDub
+    
+OhYeah
